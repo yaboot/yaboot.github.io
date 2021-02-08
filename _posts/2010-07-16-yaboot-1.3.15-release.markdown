@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "yaboot 1.3.15 is released"
+date:   2021-02-08 18:50:01 +1100
+categories: release
+---
+    $ sha1sum yaboot-1.3.15.tar.gz
+    8f74d491a6f5bcbe0359e65c7738bf3fdbc69c54  yaboot-1.3.15.tar.gz

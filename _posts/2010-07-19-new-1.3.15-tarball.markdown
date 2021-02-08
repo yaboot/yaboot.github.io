@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Yaboot 1.3.15 tarball updated."
+date:   2021-02-08 18:50:01 +1100
+categories: release project-updates
+---
+Due to a silly typo the yaboot-1.3.15.tar.gz was pretty much useless.  I've
+updated the tarball.  Sorry all.
+
+
+    MD5:            6027909805490b644816e800aba9f5a6  yaboot-1.3.15.tar.gz
+    SHA1:	7f394d81522fe1e7aed9daf8ad06568d6b74267f  yaboot-1.3.15.tar.gz
+
+
+Thanks to [acrux][acrux-url] for pointing out the problem.
+
+[acrux-url]: http://lists.ozlabs.org/pipermail/yaboot-devel/2010-July/000338.html"
